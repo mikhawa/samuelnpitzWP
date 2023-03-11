@@ -1,6 +1,9 @@
 # configuration
 wp-config.php
 
+# datas
+datas/
+
 # https
 .well-known/
 
